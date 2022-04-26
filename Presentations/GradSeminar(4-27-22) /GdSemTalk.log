@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.21)  25 APR 2022 16:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.21)  25 APR 2022 20:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1599,7 +1599,7 @@ texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/te
 xlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/loca
 l/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/
 local/texlive/2022/texmf-dist/fonts/type1/public/rsfs/rsfs10.pfb>
-Output written on GdSemTalk.pdf (34 pages, 4732642 bytes).
+Output written on GdSemTalk.pdf (34 pages, 4732638 bytes).
 PDF statistics:
  367 PDF objects out of 1000 (max. 8388607)
  234 compressed objects within 3 object streams
