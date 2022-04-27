@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.21)  25 APR 2022 20:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.21)  26 APR 2022 19:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1299,31 +1299,31 @@ Package caption Info: End \AtBeginDocument code.
 (./GdSemTalk.nav) [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 111
+LaTeX Font Info:    Trying to load font information for U+msa on input line 114
 .
  (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 111
+LaTeX Font Info:    Trying to load font information for U+msb on input line 114
 .
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for U+lasy on input line 11
-1.
+4.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    Trying to load font information for U+rsfs on input line 11
-1.
+4.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 111.
+ut line 114.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
@@ -1333,71 +1333,71 @@ pdfTeX warning (ext4): destination with the same identifier (name{Navigation1})
  has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.111 	\end{frame}
+l.114 	\end{frame}
                   
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.111 	\end{frame}
+l.114 	\end{frame}
                    [1
 
 ] [2
 
 ]
-Overfull \vbox (4.7686pt too high) detected at line 151
+Overfull \vbox (4.7686pt too high) detected at line 158
  []
 
 [3
 
 ]
-<randomwalk5steps.png, id=66, 462.528pt x 398.9304pt>
+<randomwalk5steps.png, id=68, 462.528pt x 398.9304pt>
 File: randomwalk5steps.png Graphic file (type png)
 <use randomwalk5steps.png>
-Package pdftex.def Info: randomwalk5steps.png  used on input line 172.
+Package pdftex.def Info: randomwalk5steps.png  used on input line 179.
 (pdftex.def)             Requested size: 277.51894pt x 239.36008pt.
 
-Overfull \vbox (28.08696pt too high) detected at line 172
+Overfull \vbox (28.08696pt too high) detected at line 179
  []
 
 [4
 
  <./randomwalk5steps.png>]
-<randomwalk10steps.png, id=74, 462.528pt x 346.896pt>
+<randomwalk10steps.png, id=76, 462.528pt x 346.896pt>
 File: randomwalk10steps.png Graphic file (type png)
 <use randomwalk10steps.png>
-Package pdftex.def Info: randomwalk10steps.png  used on input line 178.
-(pdftex.def)             Requested size: 277.51894pt x 208.13919pt.
+Package pdftex.def Info: randomwalk10steps.png  used on input line 185.
+(pdftex.def)             Requested size: 254.39117pt x 190.79338pt.
  [5
 
  <./randomwalk10steps.png>]
-<randomwalk20steps.png, id=81, 462.528pt x 346.896pt>
+<randomwalk20steps.png, id=83, 462.528pt x 346.896pt>
 File: randomwalk20steps.png Graphic file (type png)
 <use randomwalk20steps.png>
-Package pdftex.def Info: randomwalk20steps.png  used on input line 184.
+Package pdftex.def Info: randomwalk20steps.png  used on input line 191.
 (pdftex.def)             Requested size: 277.51894pt x 208.13919pt.
  [6
 
  <./randomwalk20steps.png>]
-<randomwalk40steps.png, id=89, 462.528pt x 411.2163pt>
+<randomwalk40steps.png, id=91, 462.528pt x 411.2163pt>
 File: randomwalk40steps.png Graphic file (type png)
 <use randomwalk40steps.png>
-Package pdftex.def Info: randomwalk40steps.png  used on input line 190.
+Package pdftex.def Info: randomwalk40steps.png  used on input line 197.
 (pdftex.def)             Requested size: 277.51894pt x 246.73167pt.
 
-Overfull \vbox (35.45856pt too high) detected at line 190
+Overfull \vbox (35.45856pt too high) detected at line 197
  []
 
 [7
 
  <./randomwalk40steps.png>]
-<BrownianMotion.png, id=96, 462.528pt x 346.896pt>
+<BrownianMotion.png, id=98, 462.528pt x 346.896pt>
 File: BrownianMotion.png Graphic file (type png)
 <use BrownianMotion.png>
-Package pdftex.def Info: BrownianMotion.png  used on input line 202.
+Package pdftex.def Info: BrownianMotion.png  used on input line 209.
 (pdftex.def)             Requested size: 323.76738pt x 242.82553pt.
 
-Overfull \vbox (31.55241pt too high) detected at line 202
+Overfull \vbox (31.55241pt too high) detected at line 209
  []
 
 [8
@@ -1406,158 +1406,187 @@ Overfull \vbox (31.55241pt too high) detected at line 202
 
 ] [10
 
-] [11
-
 ]
-<StochIntegralExample.png, id=122, 462.528pt x 346.896pt>
-File: StochIntegralExample.png Graphic file (type png)
-<use StochIntegralExample.png>
-Package pdftex.def Info: StochIntegralExample.png  used on input line 258.
+<whitenoise.png, id=117, 462.528pt x 346.896pt>
+File: whitenoise.png Graphic file (type png)
+<use whitenoise.png>
+Package pdftex.def Info: whitenoise.png  used on input line 250.
+(pdftex.def)             Requested size: 369.90291pt x 170.71628pt.
+
+Overfull \hbox (17.08862pt too wide) in paragraph at lines 250--250
+ [][] 
+ []
+
+[11
+
+ <./whitenoise.png>]
+<niceincrements.png, id=124, 462.528pt x 346.896pt>
+File: niceincrements.png Graphic file (type png)
+<use niceincrements.png>
+Package pdftex.def Info: niceincrements.png  used on input line 255.
 (pdftex.def)             Requested size: 323.76738pt x 242.82553pt.
 
-Overfull \vbox (23.55241pt too high) detected at line 258
+Overfull \vbox (23.55241pt too high) detected at line 255
  []
 
 [12
 
- <./StochIntegralExample.png>] [13
+ <./niceincrements.png>] [13
 
 ]
-<riemannBM.png, id=135, 462.528pt x 346.896pt>
-File: riemannBM.png Graphic file (type png)
-<use riemannBM.png>
-Package pdftex.def Info: riemannBM.png  used on input line 282.
-(pdftex.def)             Requested size: 277.51894pt x 208.13919pt.
- [14
+<StochIntegralExample.png, id=137, 462.528pt x 346.896pt>
+File: StochIntegralExample.png Graphic file (type png)
+<use StochIntegralExample.png>
+Package pdftex.def Info: StochIntegralExample.png  used on input line 281.
+(pdftex.def)             Requested size: 323.76738pt x 242.82553pt.
 
- <./riemannBM.png>]
-<simmons.png, id=142, 813.0375pt x 680.5425pt>
-File: simmons.png Graphic file (type png)
-<use simmons.png>
-Package pdftex.def Info: simmons.png  used on input line 287.
-(pdftex.def)             Requested size: 243.91313pt x 204.16432pt.
- [15
-
- <./simmons.png>] [16
-
-] [17
-
-]
-<geometricbmotion.png, id=159, 462.528pt x 436.5108pt>
-File: geometricbmotion.png Graphic file (type png)
-<use geometricbmotion.png>
-Package pdftex.def Info: geometricbmotion.png  used on input line 324.
-(pdftex.def)             Requested size: 296.01689pt x 279.36595pt.
-
-Overfull \vbox (45.21933pt too high) detected at line 324
+Overfull \vbox (23.55241pt too high) detected at line 281
  []
 
-[18
+[14
 
- <./geometricbmotion.png>] [19
+ <./StochIntegralExample.png>] [15
 
-] [20
+]
+<riemannBM.png, id=149, 462.528pt x 346.896pt>
+File: riemannBM.png Graphic file (type png)
+<use riemannBM.png>
+Package pdftex.def Info: riemannBM.png  used on input line 304.
+(pdftex.def)             Requested size: 277.51894pt x 208.13919pt.
+ [16
 
-] [21
+ <./riemannBM.png>]
+<simmons.png, id=156, 813.0375pt x 680.5425pt>
+File: simmons.png Graphic file (type png)
+<use simmons.png>
+Package pdftex.def Info: simmons.png  used on input line 309.
+(pdftex.def)             Requested size: 243.91313pt x 204.16432pt.
+ [17
+
+ <./simmons.png>] [18
+
+] [19
+
+]
+<geometricbmotion.png, id=174, 462.528pt x 436.5108pt>
+File: geometricbmotion.png Graphic file (type png)
+<use geometricbmotion.png>
+Package pdftex.def Info: geometricbmotion.png  used on input line 346.
+(pdftex.def)             Requested size: 296.01689pt x 279.36595pt.
+
+Overfull \vbox (45.21933pt too high) detected at line 346
+ []
+
+[20
+
+ <./geometricbmotion.png>] [21
 
 ] [22
 
-]
-Overfull \hbox (1.62746pt too wide) detected at line 415
-[]
- []
-
-[23
+] [23
 
 ] [24
 
 ]
-<bsheet4.png, id=202, 578.16pt x 578.16pt>
-File: bsheet4.png Graphic file (type png)
-<use bsheet4.png>
-Package pdftex.def Info: bsheet4.png  used on input line 440.
-(pdftex.def)             Requested size: 289.07928pt x 289.07928pt.
-
-Overfull \vbox (69.80617pt too high) detected at line 440
+Overfull \hbox (1.62746pt too wide) detected at line 437
+[]
  []
 
 [25
 
- <./bsheet4.png>]
-<bsheet3.png, id=211, 578.16pt x 578.16pt>
-File: bsheet3.png Graphic file (type png)
-<use bsheet3.png>
-Package pdftex.def Info: bsheet3.png  used on input line 445.
+] [26
+
+]
+<bsheet4.png, id=216, 578.16pt x 578.16pt>
+File: bsheet4.png Graphic file (type png)
+<use bsheet4.png>
+Package pdftex.def Info: bsheet4.png  used on input line 462.
 (pdftex.def)             Requested size: 289.07928pt x 289.07928pt.
 
-Overfull \vbox (69.80617pt too high) detected at line 445
- []
-
-[26
-
- <./bsheet3.png>]
-<bsheet1.png, id=218, 578.16pt x 578.16pt>
-File: bsheet1.png Graphic file (type png)
-<use bsheet1.png>
-Package pdftex.def Info: bsheet1.png  used on input line 450.
-(pdftex.def)             Requested size: 289.07928pt x 289.07928pt.
-
-Overfull \vbox (69.80617pt too high) detected at line 450
+Overfull \vbox (69.80617pt too high) detected at line 462
  []
 
 [27
 
- <./bsheet1.png>] [28
-
-]
-<SHEdeltaNoise0.png, id=230, 578.16pt x 578.16pt>
-File: SHEdeltaNoise0.png Graphic file (type png)
-<use SHEdeltaNoise0.png>
-Package pdftex.def Info: SHEdeltaNoise0.png  used on input line 474.
+ <./bsheet4.png>]
+<bsheet3.png, id=225, 578.16pt x 578.16pt>
+File: bsheet3.png Graphic file (type png)
+<use bsheet3.png>
+Package pdftex.def Info: bsheet3.png  used on input line 467.
 (pdftex.def)             Requested size: 289.07928pt x 289.07928pt.
 
-Overfull \vbox (46.93266pt too high) detected at line 474
+Overfull \vbox (69.80617pt too high) detected at line 467
+ []
+
+[28
+
+ <./bsheet3.png>]
+<bsheet1.png, id=232, 578.16pt x 578.16pt>
+File: bsheet1.png Graphic file (type png)
+<use bsheet1.png>
+Package pdftex.def Info: bsheet1.png  used on input line 472.
+(pdftex.def)             Requested size: 289.07928pt x 289.07928pt.
+
+Overfull \vbox (69.80617pt too high) detected at line 472
  []
 
 [29
 
- <./SHEdeltaNoise0.png>]
-<SHEdeltaNoise1.png, id=237, 578.16pt x 578.16pt>
-File: SHEdeltaNoise1.png Graphic file (type png)
-<use SHEdeltaNoise1.png>
-Package pdftex.def Info: SHEdeltaNoise1.png  used on input line 479.
+ <./bsheet1.png>] [30
+
+]
+<SHEdeltaNoise0.png, id=245, 578.16pt x 578.16pt>
+File: SHEdeltaNoise0.png Graphic file (type png)
+<use SHEdeltaNoise0.png>
+Package pdftex.def Info: SHEdeltaNoise0.png  used on input line 496.
 (pdftex.def)             Requested size: 289.07928pt x 289.07928pt.
 
-Overfull \vbox (46.93266pt too high) detected at line 479
- []
-
-[30
-
- <./SHEdeltaNoise1.png>]
-<SHEdeltaNoise2.png, id=245, 578.16pt x 578.16pt>
-File: SHEdeltaNoise2.png Graphic file (type png)
-<use SHEdeltaNoise2.png>
-Package pdftex.def Info: SHEdeltaNoise2.png  used on input line 484.
-(pdftex.def)             Requested size: 289.07928pt x 289.07928pt.
-
-Overfull \vbox (46.93266pt too high) detected at line 484
+Overfull \vbox (46.93266pt too high) detected at line 496
  []
 
 [31
 
- <./SHEdeltaNoise2.png>]
-<SHEdeltaNoise2.15.png, id=252, 578.16pt x 578.16pt>
-File: SHEdeltaNoise2.15.png Graphic file (type png)
-<use SHEdeltaNoise2.15.png>
-Package pdftex.def Info: SHEdeltaNoise2.15.png  used on input line 489.
+ <./SHEdeltaNoise0.png>]
+<SHEdeltaNoise1.png, id=252, 578.16pt x 578.16pt>
+File: SHEdeltaNoise1.png Graphic file (type png)
+<use SHEdeltaNoise1.png>
+Package pdftex.def Info: SHEdeltaNoise1.png  used on input line 501.
 (pdftex.def)             Requested size: 289.07928pt x 289.07928pt.
 
-Overfull \vbox (46.93266pt too high) detected at line 489
+Overfull \vbox (46.93266pt too high) detected at line 501
  []
 
 [32
 
- <./SHEdeltaNoise2.15.png>] [33
+ <./SHEdeltaNoise1.png>]
+<SHEdeltaNoise2.png, id=259, 578.16pt x 578.16pt>
+File: SHEdeltaNoise2.png Graphic file (type png)
+<use SHEdeltaNoise2.png>
+Package pdftex.def Info: SHEdeltaNoise2.png  used on input line 506.
+(pdftex.def)             Requested size: 289.07928pt x 289.07928pt.
+
+Overfull \vbox (46.93266pt too high) detected at line 506
+ []
+
+[33
+
+ <./SHEdeltaNoise2.png>]
+<SHEdeltaNoise2.15.png, id=266, 578.16pt x 578.16pt>
+File: SHEdeltaNoise2.15.png Graphic file (type png)
+<use SHEdeltaNoise2.15.png>
+Package pdftex.def Info: SHEdeltaNoise2.15.png  used on input line 511.
+(pdftex.def)             Requested size: 289.07928pt x 289.07928pt.
+
+Overfull \vbox (46.93266pt too high) detected at line 511
+ []
+
+[34
+
+ <./SHEdeltaNoise2.15.png>] [35
+
+] [36
+
+] [37
 
  </usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
 \tf@nav=\write6
@@ -1574,11 +1603,11 @@ Package rerunfilecheck Info: File `GdSemTalk.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 38374 strings out of 478233
- 914398 string characters out of 5843838
- 1320155 words of memory out of 5000000
- 55789 multiletter control sequences out of 15000+600000
- 485848 words of font info for 94 fonts, out of 8000000 for 9000
+ 38411 strings out of 478233
+ 914906 string characters out of 5843838
+ 1320174 words of memory out of 5000000
+ 55814 multiletter control sequences out of 15000+600000
+ 486844 words of font info for 97 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,18n,122p,740b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
@@ -1599,10 +1628,10 @@ texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/te
 xlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/loca
 l/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/
 local/texlive/2022/texmf-dist/fonts/type1/public/rsfs/rsfs10.pfb>
-Output written on GdSemTalk.pdf (34 pages, 4732638 bytes).
+Output written on GdSemTalk.pdf (38 pages, 4866930 bytes).
 PDF statistics:
- 367 PDF objects out of 1000 (max. 8388607)
- 234 compressed objects within 3 object streams
- 69 named destinations out of 1000 (max. 500000)
- 219 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 397 PDF objects out of 1000 (max. 8388607)
+ 256 compressed objects within 3 object streams
+ 78 named destinations out of 1000 (max. 500000)
+ 229 words of extra memory for PDF output out of 10000 (max. 10000000)
 
